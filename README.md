@@ -1,1 +1,1 @@
-This chrome extension scrolls down on clicking buttoon and scraps profile names and connection degree info from the search -> searched results -> people section on LinkedIn.
+This is a simple and basic chrome extension that scrolls down the active tab page on click and scraps profile names and connection degree info from the search -> searched results -> people section on** "LinkedIn"**.
